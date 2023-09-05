@@ -1,0 +1,45 @@
+/* Reset CSS untuk menghilangkan margin dan padding default */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Calibri, helvetica;
+    background-color: #f0f0f0;
+    margin: 20px;
+}
+
+header {
+    text-align: center;
+    background-color: #a75e67;
+    color: #fff;
+    padding: 10px 0;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+section {
+    background-color: #c3afaf;
+    border: 1px solid #d0a4a4;
+    margin: 20px 0;
+    padding: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Styling tambahan sesuai kebutuhan Anda */
